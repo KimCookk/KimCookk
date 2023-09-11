@@ -4,4 +4,4 @@
 - 📝 블로그 [https://kimcook.tistory.com/](https://kimcook.tistory.com/)
 
 - 📫 이메일 **fopc4131@gmail.com**
-- test234567891011223543578
+- Gromit commit : 1
